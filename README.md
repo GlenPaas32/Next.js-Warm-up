@@ -1,3 +1,18 @@
+Picture of the website: 
+<img width="530" height="404" alt="image" src="https://github.com/user-attachments/assets/20280335-5aaa-4f69-9a1d-c1000b3c95fb" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
